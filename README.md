@@ -22,11 +22,15 @@ A secure todo list application with user authentication and task management capa
 ## Screenshots 📸
 
 ### Authentication Page
+#### Login Screen
 ![Image](https://github.com/user-attachments/assets/f6d55707-fe4e-4b08-b0b7-0ac7ef18bb38)
 
 ### Todo Interface
-![Todo Interface 1](./screenshots/todo-interface-1.png)  
-![Todo Interface 2](./screenshots/todo-interface-2.png)
+#### Dashboard View
+![Image](https://github.com/user-attachments/assets/a3b30260-64cb-4776-a1e2-1dbdb69c63ae) 
+
+#### Task Management View 
+![Image](https://github.com/user-attachments/assets/2f390b30-71fe-419d-9d8f-d99d7ab97e23)
 
 
 ## Live Demo 🚀
@@ -39,4 +43,4 @@ Default credentials:
 ## Installation ⚙️
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/ayanafilee/Todo-List-App-
