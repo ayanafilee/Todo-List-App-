@@ -18,6 +18,11 @@ A secure todo list application with user authentication and task management capa
 - 📱 Mobile-friendly design
 - 🎉 Empty state visualization
 - ⚡ Real-time UI updates
+### Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+
 
 ## Screenshots 📸
 
