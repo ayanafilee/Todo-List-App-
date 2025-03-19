@@ -44,3 +44,5 @@ Default credentials:
 1. Clone the repository:
 ```bash
 git clone https://github.com/ayanafilee/Todo-List-App-
+2. Launch index.html in your browser.
+3. Begin adding your tasks!
