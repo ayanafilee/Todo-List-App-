@@ -22,7 +22,7 @@ A secure todo list application with user authentication and task management capa
 ## Screenshots 📸
 
 ### Authentication Page
-![Auth Page](./screenshots/auth-page.png)
+![Auth Page](.![Image](https://github.com/user-attachments/assets/f6d55707-fe4e-4b08-b0b7-0ac7ef18bb38))
 
 ### Todo Interface
 ![Todo Interface 1](./screenshots/todo-interface-1.png)  
