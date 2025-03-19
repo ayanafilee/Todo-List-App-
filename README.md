@@ -21,9 +21,13 @@ A secure todo list application with user authentication and task management capa
 
 ## Screenshots 📸
 
-| Authentication Page | Todo Interface |
-|----------------------|----------------|
-| ![Auth Page](./screenshots/auth-page.png) | ![Todo Interface](./screenshots/todo-interface.png) |
+### Authentication Page
+![Auth Page](./screenshots/auth-page.png)
+
+### Todo Interface
+![Todo Interface 1](./screenshots/todo-interface-1.png)  
+![Todo Interface 2](./screenshots/todo-interface-2.png)
+
 
 ## Live Demo 🚀
 Experience the app live: []() https://ayanafilee.github.io/Todo-List-App-/
